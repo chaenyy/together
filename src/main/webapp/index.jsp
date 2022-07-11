@@ -12,5 +12,6 @@
 	<h1>Together</h1>
 	<a href="<%= request.getContextPath()%>/helloworld">helloworld</a>
 	<a href="<%= request.getContextPath()%>/chaenyy">chaenyy</a>
+	<a href="<%= request.getContextPath()%>/Baekdohun">Baekdohun</a>
 </body>
 </html>
